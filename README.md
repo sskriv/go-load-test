@@ -19,7 +19,7 @@ $ go run server/main.go
 $ ./boomer/boomer
 ```
 
-UI
+### UI
 ```
 http://localhost:8089/
 ```
