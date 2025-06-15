@@ -1,5 +1,12 @@
-for study.  
-write load test scenarios in Go.
+## Go Load Test
+
+This repository is for self-learning purposes.  
+The goal is to deepen my understanding of Go by implementing a simple load testing tool from scratch.
+
+### Purpose
+
+- Practice Go programming through hands-on development
+- Learn about concurrency, HTTP requests, and performance testing
 
 ### links
 ---
